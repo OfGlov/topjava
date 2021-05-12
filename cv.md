@@ -37,6 +37,8 @@
 - <a href="https://www.youtube.com/watch?v=Deb5wMHjBHY">Михаил Портнов. Собеседование на работу: как продать себя грамотно</a>
 - <a href="https://www.youtube.com/watch?v=qKsc8PoHJwM">Михаил Портнов. Какие вопросы мы задаем на собеседовании?</a>
 - <a href="https://www.youtube.com/watch?v=hry2CNuOxBg">Михаил Портнов. Собеседование на работу: жизненный путь</a>
+- [Лёша Корепанов. Признаки плохих компаний для программиста](https://www.youtube.com/watch?v=Sj-WSWr-n7U)
+- [Лёша Корепанов. Как отвечать на вопросы, которые ты не знаешь. Техническое интервью для программиста](https://www.youtube.com/watch?v=Beoh3tfgPEk)
 - <a href="https://www.youtube.com/playlist?list=PL7XXjge0nKZczMtQbNk9c2cplvuLZomTh">Канал: Резюме, поиск работы, интервью</a>
 -  <a href="https://www.youtube.com/watch?v=ft0Nj8Cm9kk">Яков Файн: Как стать профессиональным Java разработчиком</a>
 -  <a href="https://jsehelper.blogspot.ru/p/blog-page.html">Ответы на вопросы на собеседовании Junior Java Developer</a>
@@ -93,7 +95,8 @@
 - <a href="http://djinni.co/">djinni.co (более актуально для Украины)</a>
 
 
-## Как выжить на испытательном сроке
+<h2 id="probation">Как выжить на испытательном сроке</h2>
+
 - Учись грамотно формулировать проблему. Проблема "у меня не работает" может иметь тысячи причин. В
                 процессе формулирования очень часто приходит ее решение.
 - Учись инвестигировать проблему. Внимательное чтение логов и умение дебажить - основные навыки
@@ -113,6 +116,7 @@
 - [25 ошибок начинающего программиста](https://habr.com/ru/post/413129/)
 - [Путеводитель по синдрому самозванца](https://vc.ru/hr/167443-eshche-odin-putevoditel-po-sindromu-samozvanca-korni-prichiny-simptomy-i-posledstviya-chast-1)
 - [Нетехнические навыки](https://tproger.ru/experts/softskills-for-job)
+- Видео [Junior и испытательный срок на первой работе](https://www.youtube.com/watch?v=GsGlsCbok-c)
 - Типичные ошибки начинающих программистов от JavaRush:
   - [Часть 1](https://javarush.ru/groups/posts/3044-razbor-tipichnihkh-oshibok-nachinajujshikh-programmistov-chastjh-1)
   - [Часть 2](https://javarush.ru/groups/posts/3055-razbor-tipichnihkh-oshibok-nachinajujshikh-programmistov-chastjh-2)

@@ -148,7 +148,7 @@ Java Enterprise Online Project
   
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Замечания к HW0
 - 1: Код проекта менять можно! Одна из распространенных ошибок как в тестовых заданиях на собеседовании, так и при работе на проекте, что ничего нельзя менять. Конечно при правках в рабочем проекте обязательно нужно проконсультироваться/проревьюироваться у авторов кода (находится по истории VCS)
-- 2: Наследовать `UserMealWithExcess` от `UserMeal` я не буду, т.к. это разные сущности: Transfer Object и Entity. Мы будет их проходить на 2м уроке.
+- 2: Наследовать `UserMealWithExcess` от `UserMeal` нельзя, т.к. это разные сущности: Transfer Object и Entity. Мы будет их проходить на 2м уроке. Это относится и к зависимости.
 - 3: Правильная реализация должна быть простой и красивой, можно сделать 2-мя способами: через стримы и через циклы. Сложность должна быть O(N), т.е. без вложенных стримов и циклов.
 - 4: При реализации через циклы посмотрите в `Map` на методы `getOrDefault` или `merge`
 - 5: **При реализации через `Stream` заменяйте `forEach` оператором `stream.map(..)`**
@@ -192,7 +192,7 @@ Java Enterprise Online Project
 - <a href="http://www.quizful.net/post/java-reflection-api">Введение в Java Reflection API</a>
 - <a href="https://habrahabr.ru/users/tarzan82/topics/">Структуры данных в картинках</a>
 - <a href="https://habrahabr.ru/company/luxoft/blog/157273/">Обзор java.util.concurrent.*</a>
-- <a href="http://www.skipy.ru/technics/synchronization.html">Синхронизация потоков</a>
+- <a href="http://web.archive.org/web/20200808064416/http://www.skipy.ru/technics/synchronization.html">Синхронизация потоков</a>
 - <a href="http://java67.blogspot.ru/2014/08/difference-between-string-literal-and-new-String-object-Java.html">String literal pool</a>
 - <a href="https://habrahabr.ru/post/132241/">Маленькие хитрости Java</a>
 -  <a href="https://github.com/winterbe/java8-tutorial">A Guide to Java 8</a>
